@@ -1,3 +1,7 @@
+-1
+// Rauny Ferreira Martinelli
+// Student ID: 101333371
+
 const childProcess= require('child_process');
 
 console.log('--- Creating Log Files ---');

@@ -1,3 +1,7 @@
+// Rauny Ferreira Martinelli
+// Student ID: 101333371
+
+
 function lowerCaseWords(mixedArray){
     return new Promise((resolve, reject)=>{
         if(!Array.isArray(mixedArray)){

@@ -1,5 +1,8 @@
 # Week06 Exercise - Notes Application
 
+Rauny Martinelli
+101333371
+
 Build a Restful CRUD API for a simple Note-Taking application using Node.js, Express and MongoDB.
 
 ## Steps to Setup

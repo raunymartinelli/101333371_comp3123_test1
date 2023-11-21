@@ -1,0 +1,15 @@
+<module>
+  <component name="DeprecatedModuleOptionManager">
+    <option key="type" value="JAVA_MODULE" />
+  </component>
+  <component name="ExternalSystem" externalSystem="GRADLE" externalSystemModuleGroup="ca.gbc" externalSystemModuleVersion="0.0.1-SNAPSHOT" linkedProjectId="inventory-service" linkedProjectPath="$MODULE_DIR$/../../inventory-service" rootProjectPath="$MODULE_DIR$/../../inventory-service" />
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_17" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../inventory-service">
+      <excludeFolder url="file://$MODULE_DIR$/../../inventory-service/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../inventory-service/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

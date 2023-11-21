@@ -1,0 +1,15 @@
+<project>
+  <component name="ExternalCompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="inventory-service" target="17" />
+      <module name="inventory-service.main" target="17" />
+      <module name="inventory-service.test" target="17" />
+      <module name="order-service" target="17" />
+      <module name="order-service.main" target="17" />
+      <module name="order-service.test" target="17" />
+      <module name="product-service" target="17" />
+      <module name="product-service.main" target="17" />
+      <module name="product-service.test" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,15 @@
+<module>
+  <component name="DeprecatedModuleOptionManager">
+    <option key="type" value="JAVA_MODULE" />
+  </component>
+  <component name="ExternalSystem" externalSystem="GRADLE" externalSystemModuleGroup="com.example" externalSystemModuleVersion="0.0.1-SNAPSHOT" linkedProjectId="product-service" linkedProjectPath="$MODULE_DIR$/../../product-service" rootProjectPath="$MODULE_DIR$/../../product-service" />
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_17" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../product-service">
+      <excludeFolder url="file://$MODULE_DIR$/../../product-service/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../product-service/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
